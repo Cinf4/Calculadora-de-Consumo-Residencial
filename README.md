@@ -23,7 +23,7 @@ $$ConsumoMensal(kWh) = \frac{Potência(W) \times Horas/Dia \times 30 dias}{1000}
 O custo total é obtido multiplicando o consumo pelo valor do kWh ajustado pela bandeira tarifária selecionada.
 
 ## 🛠️ Tecnologias e Ferramentas
-* **Linguagem:** Python 3.x 🐍
+* **Linguagem:** Python 3 🐍
 * **Lógica:** Estruturas de repetição (`while`), Condicionais (`if/elif`) e Tratamento de Erros (`try/except`).
 * **Versionamento:** Git & GitHub.
 
